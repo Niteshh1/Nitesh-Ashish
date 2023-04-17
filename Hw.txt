@@ -1,0 +1,28 @@
+
+/*to display 1-100* accending*/
+for(let i=1;i<100;i++){
+  console.log(i)
+}
+
+
+/*to display 1-100 evens accending*/
+for (let i=2;i<=100;i+=2){
+  console.log(i)
+}
+
+/*to display 1-100 evens desending*/
+for (let i=100;i>0;i-=2){
+  console.log(i)
+}
+
+
+/*to display 1-100 odds accending*/
+for (let i=1;i<100;i+=2){
+  console.log(i)
+}
+
+
+/*to display 1-100 odds desending*/
+for (let i=99;i>0;i-=2){
+  console.log(i)
+}
